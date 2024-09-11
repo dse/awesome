@@ -32,6 +32,7 @@
 ### Webdev
 
 -   [`autoprefixer`](https://www.npmjs.com/package/autoprefixer)
+-   [`browserslist`](https://www.npmjs.com/package/browserslist)
 -   [`js-beautify`](https://www.npmjs.com/package/js-beautify)
 -   [`postcss`](https://www.npmjs.com/package/postcss)
 -   [`browser-sync`](https://www.npmjs.com/package/browser-sync)
@@ -66,6 +67,11 @@
     -   see also [`underscore`](https://www.npmjs.com/package/underscore)
     -   see also [prototype](http://prototypejs.org)
 -   [`axios`](https://github.com/axios/axios) and [`ky`](https://www.npmjs.com/package/ky))
+-   [`word-wrap`](https://www.npmjs.com/package/word-wrap)
+-   [`cosmiconfig`](https://www.npmjs.com/package/cosmiconfig)
+-   [`dotenvx`](https://www.npmjs.com/package/dotenvx)
+    -   load from `.env` files, both in your .js code and the CLI.
+    -   its predecessor is [`dotenv`](https://www.npmjs.com/package/dotenv)
 
 ### Web Server
 
