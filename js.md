@@ -41,6 +41,12 @@
 
 ### Webdev
 
+-   [Bootstrap](https://getbootstrap.com) is an HTML/CSS framework.
+-   [Foundation](https://get.foundation) is also an HTML/CSS framework.
+-   [Font Awesome](https://fontawesome.com) provides icons for your websites.
+-   [Astro](https://astro.build/) builds static websites.
+-   [Partytown](https://github.com/BuilderIO/partytown) moves your tracking/ad/whatever scripts into a webworker.
+
 -   [`autoprefixer`](https://www.npmjs.com/package/autoprefixer)
 -   [`browserslist`](https://www.npmjs.com/package/browserslist)
 -   [`js-beautify`](https://www.npmjs.com/package/js-beautify)
@@ -53,24 +59,14 @@
 -   [`what-input`](https://www.npmjs.com/package/what-input)
 -   [`normalize.css`](https://necolas.github.io/normalize.css/) is a CSS reset.
 -   [`htmlmin`](https://www.npmjs.com/package/htmlmin)
--   [`copy-inline-source`](https://www.npmjs.com/package/copy-inline-source)
-    - what does this do?
--   [`html-entities`](https://www.npmjs.com/package/html-entities)
-    is the best one
+-   [`copy-inline-source`](https://www.npmjs.com/package/copy-inline-source) - what does this do?
+-   [`html-entities`](https://www.npmjs.com/package/html-entities) is the best function of its class.
 -   [`ag-grid-community`](https://www.npmjs.com/package/ag-grid-community)
 -   [`choices.js`](https://www.npmjs.com/package/choices.js)
--   https://keen-slider.io/examples
-    https://www.npmjs.com/package/keen-slider
--   konami
-
--   [Bootstrap](https://getbootstrap.com) is an HTML/CSS framework.
--   [Foundation](https://get.foundation) is also an HTML/CSS framework.
--   [Font Awesome](https://fontawesome.com) provides icons for your websites.
--   [Astro](https://astro.build/) builds static websites.
-
+-   [keen-slider](https://keen-slider.io/examples)
+    -   [`keen-slider`](https://www.npmjs.com/package/keen-slider)
+-   [`konami`](https://www.npmjs.com/package/konami)
 -   [shadcn/ui](https://ui.shadcn.com) is a collection of components.
-
--   [Partytown](https://github.com/BuilderIO/partytown) moves your tracking/ad/whatever scripts into a webworker.
 
 ### Templates
 
@@ -134,23 +130,23 @@
 -   [`pretty-hrtime`](https://www.npmjs.com/package/pretty-hrtime)
 -   [`parse-link-header`](https://www.npmjs.com/package/parse-link-header)
 -   [`fetch-throw`](https://www.npmjs.com/package/fetch-throw)
--   [shelljs](https://github.com/shelljs/shelljs)
+-   [`shelljs`](https://github.com/shelljs/shelljs)
 
 ### Web Server
 
--   [express](https://expressjs.com)
--   [browser-sync](https://www.npmjs.com/package/browser-sync),
+-   [`express`](https://expressjs.com)
+-   [`browser-sync`](https://www.npmjs.com/package/browser-sync),
     with which you can run a quick web server in your docroot.
 
 ### Old Stuff
 
--   [cross-env](https://www.npmjs.com/package/cross-env)
--   [fs-extra](https://www.npmjs.com/package/fs-extra)
--   [del](https://www.npmjs.com/package/del)
--   [bourbon](https://www.bourbon.io)
+-   [`cross-env`](https://www.npmjs.com/package/cross-env)
+-   [`fs-extra`](https://www.npmjs.com/package/fs-extra)
+-   [`del`](https://www.npmjs.com/package/del)
+-   [`bourbon`](https://www.bourbon.io)
     -   [`bourbon-neat`](https://www.npmjs.com/package/bourbon-neat)
--   [modernizr](https://modernizr.com)
--   [jquery](https://jquery.com)
--   [timezone-js](https://github.com/mde/timezone-js)
--   [hyperform](https://hyperform.js.org)
+-   [`modernizr`](https://modernizr.com)
+-   [`jquery`](https://jquery.com)
+-   [`timezone-js`](https://github.com/mde/timezone-js)
+-   [`hyperform`](https://hyperform.js.org)
 -   [`rimraf`](https://www.npmjs.com/package/rimraf)
