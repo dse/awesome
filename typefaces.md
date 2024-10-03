@@ -34,3 +34,15 @@
 -   [Awesome OSS Fonts](https://github.com/drwpow/awesome-oss-fonts)
 
 -   [_Typewolf_](https://www.typewolf.com/newsletter), a newsletter
+
+-   [Open Fonts](https://github.com/kiwi0fruit/open-fonts) list
+
+## Specific Typefaces
+
+### Slope Gothic
+
+The Slope Gothic I'm interested in is the one used for street name
+legends on USGS topographic maps from the 1950s to the 1980s.
+
+-   [This USGS type book](https://pubs.usgs.gov/unnumbered/70194715/report.pdf)
+    includes Slope Gothic which I believe is that same font.
